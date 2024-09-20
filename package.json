@@ -27,9 +27,9 @@
   "author": "Ali Muhammad",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ali-Muhammad-123/react-schema-builder-json/issues"
+    "url": "https://github.com/Ali-Muhammad-123/react-json-schema-builder/issues"
   },
-  "homepage": "https://github.com/Ali-Muhammad-123/react-schema-builder-json#readme",
+  "homepage": "https://github.com/Ali-Muhammad-123/react-json-schema-builder#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^26.0.1",
     "@rollup/plugin-node-resolve": "^15.2.3",
